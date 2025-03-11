@@ -2,7 +2,6 @@
 
 Índice de Calidad del Aire y Consumos Energéticos
 
-Descripción del Proyecto
 Este proyecto tiene como objetivo analizar la relación entre el consumo energético per cápita y la calidad del aire (AQI) en distintos países. Para ello, desarrollamos un modelo de Machine Learning basado en Random Forest, capaz de predecir la categoría del AQI a partir del mix energético y el PIB per cápita.
 Tecnologías Utilizadas
 •	Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
