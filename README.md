@@ -27,6 +27,7 @@ Futuras Mejoras
 -	Integrar predicciones del mix energético óptimo para cumplir objetivos de calidad del aire descrito en la Agenda 2030.
 
 Agradecimientos
+
 Este proyecto fue desarrollado en el Bootcamp de Data Analytics en Neoland, con la guía de Nacho y Cris, y el esfuerzo de todo el equipo.
 
 ¡Cualquier sugerencia o feedback es bienvenido!
