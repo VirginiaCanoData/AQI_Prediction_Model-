@@ -10,10 +10,10 @@ Tecnologías Utilizadas
 - Power BI (Visualización y análisis de datos)
 
 Metodología
-1.	Limpieza y preprocesamiento de datos: Filtrado, eliminación de outliers y transformación de variables categóricas.
+1.	Limpieza y preprocesamiento de datos: Filtrado, tratamineto de nulos y transformación de variables categóricas.
 2.	Selección de características: Eliminación de colinealidad y variables redundantes mediante análisis de correlación y VIF.
 3.	Entrenamiento y evaluación del modelo: Comparación entre Random Forest, Árbol de Decisión y Regresión Lineal.
-4.	Interpretación de resultados: Evaluación de importancia de variables con Feature Importance y análisis de impacto con SHAP.
+4.	Interpretación de resultados: Evaluación de importancia de variables con Feature Importance.
 
 Hallazgos Principales
 -	Bajos consumos energéticos: Alta probabilidad de un AQI bajo, independiente del mix energético y del PIB.
