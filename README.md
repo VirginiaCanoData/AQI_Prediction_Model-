@@ -20,6 +20,7 @@ Hallazgos Principales
 -	Consumos medios/altos: El mix energético es clave; mantener el AQI en niveles aceptables requiere más de un 50% de energía renovable.
 -	Consumos extremos: Solo un mix cercano al 100% de energías renovables permite mantener un AQI moderado.
 -	PIB y mitigación: Los países con mayor PIB tienen más capacidad para mitigar la contaminación gracias a inversión en tecnologías limpias.
+
 ![image](https://github.com/user-attachments/assets/1c959ed7-c57d-429d-9407-e1d9b562766d)
 
 
